@@ -1,1 +1,1 @@
-# Meta Front-End Developer Capstone Project
+# Meta Frontend Developer Capstone Project
